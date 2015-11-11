@@ -4,6 +4,7 @@
  * Version: 0.1
  * Description: Adds a metabox to the edit post screen so you can add children posts.
  * Author: Forum One, Russell Heimlich
+ * GitHub Plugin URI: https://github.com/forumone/f1-multi-section-reports
  */
 
 class F1_Multi_Section_Reports {
